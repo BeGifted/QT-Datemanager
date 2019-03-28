@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file>date.ico</file>
+    </qresource>
+    <qresource prefix="/mainWindow">
+        <file>add.ico</file>
+        <file>query.ico</file>
+        <file>about.ico</file>
+        <file>my.ico</file>
+        <file>countDown.ico</file>
+    </qresource>
+    <qresource prefix="/login">
+        <file>login.jpg</file>
+        <file>login2.jpg</file>
+    </qresource>
+</RCC>
